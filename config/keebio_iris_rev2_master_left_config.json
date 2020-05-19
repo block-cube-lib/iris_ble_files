@@ -14,7 +14,7 @@
 			 28, 29, 30, 60, 59, 58]},
 		"mode":"SPLIT_MASTER","startup":1,
 		"peripheral":{"max_interval":40,"min_interval":20,"slave_latency":6},
-		"central":{"max_interval":40,"min_interval":20,"slave_latency":0},
+		"central":{"max_interval":40,"min_interval":20,"slave_latency":6},
 		"led":{"pin":1, "num":12},
 		"keymap":{"locale":"US","use_ascii":0}
 }}
